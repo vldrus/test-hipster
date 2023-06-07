@@ -1,0 +1,4 @@
+service  all with serviceClass
+paginate all with pagination
+dto      all with mapstruct
+filter   all
